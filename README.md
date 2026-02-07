@@ -12,7 +12,7 @@ Ready-to-use weights included (weights.keras)
 
 ## Project Structure
 .
-├── main.py             # Entry point / inference script
+├── main.py             # Entry point / inference script \
 ├── sv.csv              # Swedish nouns dataset
 ├── weights.keras       # Saved neural network weights
 ├── .gitignore
