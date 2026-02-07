@@ -11,11 +11,11 @@ Trained on a CSV of Swedish nouns with gender labels (sv.csv)
 Ready-to-use weights included (weights.keras)
 
 ## Project Structure
-.
+. \
 ├── main.py             # Entry point / inference script \
-├── sv.csv              # Swedish nouns dataset
-├── weights.keras       # Saved neural network weights
-├── .gitignore
+├── sv.csv              # Swedish nouns dataset \
+├── weights.keras       # Saved neural network weights \
+├── .gitignore \
 └── README.md
 
 ## How It Works
