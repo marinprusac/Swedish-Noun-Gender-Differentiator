@@ -32,8 +32,8 @@ Numpy
 
 ## Usage
 
-Run the main script and input a noun: \
-python main.py \
+Run the main script: python main.py \
+It might ask your whether you want to retrain the model if you already have the weights saved. \ 
 You’ll be prompted to enter a Swedish noun. The model will then output whether it predicts en or ett.
 
 ## Example
