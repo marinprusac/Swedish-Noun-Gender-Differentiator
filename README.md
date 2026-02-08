@@ -26,7 +26,7 @@ The model in this repo is trained to learn patterns from the training data (sv.c
 
 ## Requirements
 
-Python 3.8+ \
+Python 3.8 - 3.12 \
 TensorFlow/Keras \
 Numpy
 
