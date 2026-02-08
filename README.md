@@ -10,6 +10,7 @@ Simple TensorFlow/Keras model \
 Trained on a CSV of Swedish nouns with gender labels (sv.csv) \
 Ready-to-use weights included (weights.keras)
 
+The program splits the data into 70% train set, 15% validation set and 15% test test.
 The model currently only optimizes the epochs number hyperparameter, but it is enough to score a test accuracy rate of around 90-95%.
 
 ## Project Structure
