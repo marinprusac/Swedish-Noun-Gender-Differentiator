@@ -37,16 +37,16 @@ python main.py \
 You’ll be prompted to enter a Swedish noun. The model will then output whether it predicts en or ett.
 
 ## Example
-Model found. Loading weights...
-Validating model...
-142/142 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9898 - loss: 0.0284
-Enter a word: apelsin
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
-EN apelsin
-Confidence: 100.0 %
-Enter a word: skrivbord
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 18ms/step
-ETT skrivbord
+Model found. Loading weights... \
+Validating model... \
+142/142 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9898 - loss: 0.0284 \
+Enter a word: apelsin \
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step \
+EN apelsin \
+Confidence: 100.0 % \
+Enter a word: skrivbord \
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 18ms/step \
+ETT skrivbord \
 Confidence: 100.0 %
 
 ## Limitations
